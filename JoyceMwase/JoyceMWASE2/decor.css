@@ -1,0 +1,11 @@
+body{
+    background-color: #fff;
+    float: right;
+    float: left;
+    
+}
+.button{
+    color: #fff;
+    background-color: blue;
+    display:flex;
+}
